@@ -1,0 +1,37 @@
+.heading{
+    font: 40px bold ;
+    font-style: italic;
+    position: relative;
+    left:150px;
+    color:green;
+}
+.button{
+    position: absolute;
+    right:100px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: black;
+}
+.darkmode{
+    color:white;
+    text-decoration: none;
+    background:black
+}
+.table{
+    border:1px solid black;
+    text-align: center;
+    margin:0px auto;
+}
+.column{
+    border:1px solid black;
+    width:130px;
+    height:70px;
+}
+.Lightmode{
+    color:black;
+    text-decoration: none;
+    background:white;
+}
+.row{
+    border:1px solid black;
+}
